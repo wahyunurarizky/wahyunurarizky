@@ -1,6 +1,6 @@
 # Halo! Saya <Nama Anda> 👋
 
-Saya adalah seorang <Gelar Anda, cth: Developer, Pelajar, atau Desainer> yang bersemangat dalam <Bidang Minat Utama Anda>. Saat ini, saya fokus pada pengembangan <cth: Aplikasi Web / Data Science / Mobile>.
+Saya adalah seorang Tukang Ketik a.k.a Bug Producer a.k.a Chat GPT Developer a.k.a Software Developer.
 
 Saya percaya pada filosofi kode yang bersih, dan selalu mencari tantangan baru untuk memperluas pengetahuan dan keterampilan saya.
 
@@ -31,14 +31,12 @@ Saya percaya pada filosofi kode yang bersih, dan selalu mencari tantangan baru u
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahyunurarizky&layout=compact&theme=onedark&hide_border=true" alt="Bahasa yang Paling Sering Digunakan">
 </p>
 
-***Catatan:** Ganti `**<USERNAME_ANDA>**` pada tautan di atas dengan username GitHub Anda yang sebenarnya.*
-
 <br>
 
 ### 🤝 Mari Terhubung
 - 🔗 **LinkedIn:** [Nama Anda](<URL LinkedIn Anda>)
-- 🌐 **Website/Portofolio:** <URL Portofolio Anda>
-- 📧 **Email:** <Alamat Email Anda>
+- 🌐 **Website/Portofolio:** https://arzky.my.id
+- 📧 **Email:** wahyunurarizky18@gmail.com
 - 🐦 **Twitter (X):** [Handle Twitter Anda](<URL Twitter Anda>)
 
 <br>
